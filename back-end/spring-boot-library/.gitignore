@@ -14,10 +14,7 @@ target/
 .sts4-cache
 
 # Application properties
-**/application.properties
-**/application-*.properties
-**/application.yml
-**/application-*.yml
+src/main/resources/application.properties
 
 ### IntelliJ IDEA ###
 .idea
